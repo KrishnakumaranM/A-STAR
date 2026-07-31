@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name:       </h3>
-<h3>Register Number:           </h3>
+<h3>Name:M krishna kumaran    </h3>
+<h3>Register Number:212224110033     </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -117,3 +117,13 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+### OUTPUT:
+
+<img width="901" height="952" alt="image" src="https://github.com/user-attachments/assets/8a2a8ac8-7a15-41d5-b2e8-31d5339814d7" />
+
+### RESULT :
+Implement A* search algorithm for a Graph executed successfully.
+
+
+
